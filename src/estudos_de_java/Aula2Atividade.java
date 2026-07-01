@@ -1,6 +1,6 @@
-import java.util.Scanner;
+package estudos_de_java;
 
-public class atividade {
+public class Aula2Atividade {
     public static void main(String[] args) {
         String nome = "<Grimaldo>";
         String endereco = "<Rua joão pereira>";
