@@ -19,4 +19,7 @@ public class Aula05EstrutuasCondicionais02 {
 
         }
     }
+    // anotações
+    // && tem que ser todas verdadeira
+   // or se for todos verdadeiro é verdadeira ou se for todos falso vai ser falso, só quando todos são falso se não, vai ser verdadeira
 }
