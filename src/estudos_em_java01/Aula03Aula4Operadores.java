@@ -1,6 +1,6 @@
-package estudos_de_java;
+package estudos_em_java01;
 
-public class Aula3Aula4Operadores {
+public class Aula03Aula4Operadores {
     public static void main(String[] args){
         // + - / *
         int numero1 = 10;

@@ -1,6 +1,6 @@
-package estudos_de_java;
+package estudos_em_java01;
 
-public class Aula2Atividade {
+public class Aula02Atividade {
     public static void main(String[] args) {
         String nome = "<Grimaldo>";
         String endereco = "<Rua joão pereira>";

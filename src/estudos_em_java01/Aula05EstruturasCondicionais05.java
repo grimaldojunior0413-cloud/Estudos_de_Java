@@ -1,6 +1,6 @@
-package estudos_de_java;
+package estudos_em_java01;
 
-public class Aula05EstrutuasCondicionais05 {
+public class Aula05EstruturasCondicionais05 {
     public static void main(String[] args) {
         //Imprima o dia da semana, considerando o 1 como domingo
         byte dia = 8;

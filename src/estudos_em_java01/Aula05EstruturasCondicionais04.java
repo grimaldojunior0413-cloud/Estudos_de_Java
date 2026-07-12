@@ -1,6 +1,6 @@
-package estudos_de_java;
+package estudos_em_java01;
 
-public class Aula05EstrutuasCondicionais04 {
+public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args){
         double salarioAnual = 70000;
         double primeiraFaixa = 9.70 / 100;

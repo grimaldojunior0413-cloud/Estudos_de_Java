@@ -1,6 +1,6 @@
-package estudos_de_java;
+package estudos_em_java01;
 
-public class Aula05EstrutuasCondicionais02 {
+public class Aula05EstruturasCondicionais02 {
     public static void main(String[] args){
         // idade <15 categoria infantil
         //idade >= 15 && idade <18 categoria juvenil
