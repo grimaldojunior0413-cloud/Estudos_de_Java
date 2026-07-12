@@ -1,12 +1,12 @@
 package estudos_em_java01;
 
-public class Aula06EstruturasDeRepeticao {
+public class Aula06EstruturasDeRepeticao01 {
     public static void main(String[] args){
         // while, do while, for
         int cont = 0;
         while(cont <= 10){
             System.out.println(cont);
-            cont = cont + 1;
+            cont = cont + 2;
         }
         cont = 0;
         do{
