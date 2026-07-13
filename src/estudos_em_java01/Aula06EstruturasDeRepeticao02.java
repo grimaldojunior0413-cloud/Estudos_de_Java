@@ -15,9 +15,6 @@ public class Aula06EstruturasDeRepeticao02 {
             if (cont % 2 == 0 ){
                 System.out.println("pares" + cont);
             }
-
         }
-
-
     }
 }
