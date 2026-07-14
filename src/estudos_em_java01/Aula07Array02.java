@@ -6,7 +6,7 @@ public class Aula07Array02 {
         // char = '\u0000'
         //boolean = false
         //String = null
-        // Arrys tambem é um objeto
+        // Arrys é um objeto
         String[] nomes = new String[4];
         nomes [0] = "Goku";
         nomes [1] = "Kurosaki";
